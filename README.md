@@ -27,16 +27,16 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://badges.pufler.dev">
+  <a href="">
     <img src="https://badges.pufler.dev/visits/Perezari/Perezari?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://badges.pufler.dev">
+  <a href="">
     <img src="https://badges.pufler.dev/years/Perezari?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://badges.pufler.dev">
+  <a href="">
     <img src="https://badges.pufler.dev/repos/Perezari?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://badges.pufler.dev">
+  <a href="">
     <img src="https://badges.pufler.dev/gists/Perezari?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
