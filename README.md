@@ -27,7 +27,7 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="">
+  <a href="#">
     <img src="https://badges.pufler.dev/visits/Perezari/Perezari?style=flat-square&color=black&logo=github">
   </a>
   <a href="">
