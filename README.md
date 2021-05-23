@@ -31,7 +31,7 @@
     <img src="https://badges.pufler.dev/visits/Perezari/Perezari?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/Perezari?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/repos/puf17640?style=flat-square&color=black&logo=github">
