@@ -27,8 +27,8 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://badges.Perezari.dev">
-    <img src="https://badges.Perezari/visits/Perezari/Perezari?style=flat-square&color=black&logo=github">
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/Perezari/Perezari?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/years/puf17640?style=flat-square&color=black&logo=github">
