@@ -34,12 +34,12 @@
     <img src="https://badges.pufler.dev/years/Perezari?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/Perezari?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/gists/Perezari?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/commits/monthly/Perezari?style=flat-square&color=black&logo=github">
   </a>
 </p>
