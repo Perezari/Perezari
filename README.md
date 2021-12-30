@@ -21,7 +21,7 @@
     <img src="https://img.icons8.com/material/256/808080/globe--v1.png" width="28px"/>
   </a>
   &emsp;
-  <a href="https://linkedin.com/in/Perezari">
+  <a href="https://www.linkedin.com/in/ari-perez-2b64b0229/">
     <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
   </a>
   <br><br>
@@ -43,3 +43,5 @@
     <img src="https://badges.pufler.dev/commits/monthly/Perezari?style=flat-square&color=black&logo=github">
   </a>
 </p>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="ari-perez-2b64b0229" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/ari-perez-2b64b0229?trk=profile-badge">Ari Perez</a></div>
