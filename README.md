@@ -1,12 +1,7 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <p align="center">
   <a href="https://github.com/Perezari" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=Perezari&title_color=333&text_color=777" alt="Ari Perez Stats" >
   </a>
-</p>
-
-<p align="center">
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ari-perez-2b64b0229" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/ari-perez-2b64b0229?trk=profile-badge">Ari Perez</a></div>
 </p>
 
 <p align="center">
