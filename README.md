@@ -25,21 +25,4 @@
     <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
   </a>
   <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
-  <a href="#">
-    <img src="https://badges.pufler.dev/visits/Perezari/Perezari?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="#">
-    <img src="https://badges.pufler.dev/years/Perezari?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="#">
-    <img src="https://badges.pufler.dev/repos/Perezari?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="#">
-    <img src="https://badges.pufler.dev/gists/Perezari?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="#">
-    <img src="https://badges.pufler.dev/commits/monthly/Perezari?style=flat-square&color=black&logo=github">
-  </a>
 </p>
